@@ -1,0 +1,37 @@
+Encryption_based_on_key
+{
+    Symmetric(single key=Ks)
+    {
+        Substitution
+        {
+            Casser_Cipher
+            {
+            
+            }
+            
+            Play_Fair_Cipher
+            {
+            
+            }
+            
+        }
+        
+        Transposition
+        {
+            Rail_Fence_Cipher
+            {
+            
+            }
+            
+            Row_Transposition_Cipher
+            {
+            
+            }
+        }
+    }
+    
+    Asymmetric(Pair of key=Ku-Kr)
+    {
+    
+    }
+}
